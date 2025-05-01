@@ -1,1 +1,1 @@
-# clinikally_assignment
+# DermaGPT
